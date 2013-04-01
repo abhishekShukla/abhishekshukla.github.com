@@ -6,7 +6,6 @@ tagline: yet to blog
 {% include JB/setup %}
 
 
-production_url: abhishekshukla.github.com
 
 
 
