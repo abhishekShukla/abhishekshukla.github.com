@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 404 found!
+tagline: yet to blog
 ---
 {% include JB/setup %}
 
